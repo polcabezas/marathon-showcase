@@ -8,10 +8,14 @@ A personal PWA for a 14 March 2027 marathon plan: this week's sessions, a wall o
 **Source:** private. This repo is the case study.
 
 <p align="center">
-  <img src="screenshots/01-login.png" width="190" alt="Login screen" />
-  <img src="screenshots/02-tracker.png" width="190" alt="This week: sessions and progress" />
-  <img src="screenshots/03-wall.png" width="190" alt="The wall: one dot per session" />
-  <img src="screenshots/04-coach.png" width="190" alt="Coach: answering what tomorrow's session is" />
+  <img src="screenshots/01-login.png" width="300" alt="Login screen" />
+  &nbsp;&nbsp;
+  <img src="screenshots/02-tracker.png" width="300" alt="This week: sessions and progress" />
+</p>
+<p align="center">
+  <img src="screenshots/03-wall.png" width="300" alt="The wall: one dot per session" />
+  &nbsp;&nbsp;
+  <img src="screenshots/04-coach.png" width="300" alt="Coach: answering what tomorrow's session is" />
 </p>
 
 ## What it does
